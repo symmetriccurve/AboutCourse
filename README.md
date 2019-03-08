@@ -1,4 +1,4 @@
-I strongly believe, "Teaching is one the best ways to learn", it helps me to gain a different perspective if unless I would never imagine.
+### I strongly believe, "Teaching is one the best ways to learn", it helps me to gain a different perspective if unless I would never imagine.
 
 With increase in demand for more robust web application, companies are moving towards single page applications and adding server side rendering strategies. With ReactJs, this comes out of the box.
 
